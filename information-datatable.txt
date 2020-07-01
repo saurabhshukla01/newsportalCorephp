@@ -1,0 +1,17 @@
+Craete database :
+
+newsportal
+
+dump table is : newstable .
+
+Create Username And password :
+
+*************************************************
+username / email : admin/ phpgurukuloficial@gmail.com (use any one)
+Password : Test@12345
+
+////////////////////////////////////////////////////////////////////////
+
+admin username : admin
+password : admin
+
